@@ -5,6 +5,14 @@ Important : <br>
 <br>
 - If you decide to use this tkinter GUI , i suggest you to read  https://github.com/siromermer/Text-Extractor-Summarizer-Translator-MobileApp .readme file ,i explained how things works . <br><br>
 - I strongly recommend flutter version it is more clear and fast .
+<br><br><br>
+
+Languages & Frameworks & Libraries<br>
+- OpenCV, Numpy libraries for image processing<br>
+- Pytesseract for text extraction<br>
+- Hugging Face library for summarization (3 different model)<br>
+- Flask for server<br>
+- Tkinter for GUI <br>
 
 <br><br><br>
 <h3>Example </h3>
